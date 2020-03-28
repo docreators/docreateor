@@ -1,4 +1,5 @@
 # Docreator
+[![Build Status](https://travis-ci.org/docreators/docreateor.svg?branch=master)](https://travis-ci.org/docreators/docreateor)
 
 ## Requirements
 
