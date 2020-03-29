@@ -7,7 +7,6 @@
 - Docker
 
 ## Build
-
 To build application use command: 
 ```sh
 ./gradlew build
@@ -15,8 +14,13 @@ To build application use command:
 
 ### Docker
 
-To run it on docker: 
+#### Building docker image 
 
+```sh
+docker build .
+```
+Then run composer while setting up dev env:
+ 
 ```sh
 docker-compose up 
 ```
